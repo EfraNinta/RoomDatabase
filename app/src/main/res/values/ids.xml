@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_tambah" type="id">fab_tambah</item>
+    <item name="nama_produk" type="id">nama_produk</item>
+    <item name="deskripsi_produk" type="id">deskripsi_produk</item>
+    <item name="btnsimpan" type="id">btnsimpan</item>
+</resources>
